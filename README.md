@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://i.imgur.com/JrQ8uGk.png" width="800" alt="JK猫耳娘Banner">
   <h1 style="color: #ff4d8f; font-family: 'Comic Sans MS', cursive;">
     🐾 にゃんこエンジニアの日常 🐾
   </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Yusei+Magic&weight=500&size=22&duration=4000&pause=1000&color=FF9EB7&center=true&vCenter=true&width=500&lines=IMUT+電子情報学部生;Pythonで魔術を書く;Djangoでウェブ制作;ฅ^•ﻌ•^ฅ" alt="Typing Animation">
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/IMUT-Electronic%20Information%20Bachelor-ff69b4?style=for-the-badge&logo=starship&logoColor=white&labelColor=6e48aa&color=fed766" alt="IMUT Electronic Information Bachelor" title="IMUT Electronic Information Bachelor">
-
-</p>
 
 <h1 align="center">🌸 こんにちは～ 我是 威化饼干喵~ 💻✨</h1>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/IMUT-Electronic%20Information%20Bachelor-ff69b4?style=for-the-badge&logo=starship&logoColor=white&labelColor=6e48aa&color=fed766" alt="IMUT Electronic Information Bachelor" title="IMUT Electronic Information Bachelor">
+</p>
 <p align="center">
   一个爱写代码的JK女孩 🎀<br>
   喜欢猫咪、夏天的风、还有甜甜的草莓冰淇淋🍓🍦<br>
