@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/your-image.png" alt="JK Girl Icon" width="150"/>
 </p>
 
-<h1 align="center">🌸 こんにちは～ 我是 Doro喵~ 💻✨</h1>
+<h1 align="center">🌸 こんにちは～ 我是 威化饼干喵~ 💻✨</h1>
 
 <p align="center">
   一个爱写代码的JK女孩 🎀<br>
@@ -30,17 +30,3 @@
 💖 Node.js / Express / Firebase  
 💖 Figma / Photoshop / 插画中毒者
 
-<!--
-**IMUTshuaiwei/IMUTshuaiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
