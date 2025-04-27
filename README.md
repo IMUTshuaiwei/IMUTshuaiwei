@@ -25,9 +25,28 @@
 
 ## 🧁 我的技能 My Tech Stack：
 
-```bash
-💖 HTML / CSS / JS / TypeScript  
-💖 Vue / React / TailwindCSS  
-💖 Node.js / Express / Firebase  
-💖 Figma / Photoshop / 插画中毒者
+<!-- Flask -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=8a2be2&color=ff9fe5" alt="Flask" title="Flask">
+</a>
+
+<!-- Django -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0c4b33&color=7fffd4" alt="Django" title="Django">
+</a>
+
+<!-- Python -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=ffd43b" alt="Python" title="Python">
+</a>
+
+<!-- HTML -->
+<a href="#">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=c1666b&color=f4d35e" alt="HTML" title="HTML">
+</a>
+
+<!-- Docker -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1d4e89&color=8ac6d0" alt="Docker" title="Docker">
+</a>
 
