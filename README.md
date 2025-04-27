@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/IMUT%20Bachelor%20of%20Science%20in%20Electronic%20Engineering">
+  <img src="https://img.shields.io/badge/IMUT-Electronic%20Information%20Bachelor-ff69b4?style=for-the-badge&logo=starship&logoColor=white&labelColor=6e48aa&color=fed766" alt="IMUT Electronic Information Bachelor" title="IMUT Electronic Information Bachelor">
 
 </p>
 
