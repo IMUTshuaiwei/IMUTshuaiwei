@@ -50,3 +50,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1d4e89&color=8ac6d0" alt="Docker" title="Docker">
 </a>
 
+
+## 🌸 最近の活動 🌸
+  
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=IMUTshuaiwei&theme=react-dark&bg_color=fff0f5&color=ff6b9e&line=ff9eb7&point=ffb6c1)
