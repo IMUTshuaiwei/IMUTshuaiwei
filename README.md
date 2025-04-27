@@ -1,6 +1,7 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image.png" alt="JK Girl Icon" width="150"/>
+  [<img src="https://user-images.githubusercontent.com/your-image.png" alt="JK Girl Icon" width="150"/>](https://img.shields.io/badge/IMUT%20Bachelor%20of%20Science%20in%20Electronic%20Engineering
+)
 </p>
 
 <h1 align="center">🌸 こんにちは～ 我是 威化饼干喵~ 💻✨</h1>
